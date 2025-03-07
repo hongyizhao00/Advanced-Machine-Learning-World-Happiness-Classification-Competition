@@ -5,8 +5,11 @@ Project Overview
 This project is part of an advanced machine learning course, aiming to classify countries based on happiness scores using World Happiness Report 2023 data. The goal is to apply various machine learning techniques, improve model accuracy, and document the entire process.
 
 Team Members
+
 Yizhao Hong
+
 Jason Lee
+
 Rick Hua
 
 Repository Structure
@@ -22,6 +25,7 @@ Repository Structure
 │── 📄 report.pdf          # Final report
 
 Project Objectives
+
 ✔ Understand model functionalities and hyperparameters
 ✔ Perform data preprocessing and feature engineering
 ✔ Train various classification models (Random Forest, Gradient Boosting, Deep Learning)
